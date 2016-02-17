@@ -223,7 +223,7 @@
 				TargetAttributes = {
 					FDC3EC531C43A07A001E18D2 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = 6J2XGE456D;
+						DevelopmentTeam = L2B92D42L7;
 					};
 					FDC3EC6C1C43A07A001E18D2 = {
 						CreatedOnToolsVersion = 7.1;
@@ -432,6 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = XLImageCropperViewController/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -444,6 +445,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = XLImageCropperViewController/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
